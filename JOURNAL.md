@@ -12,4 +12,5 @@
 | --- | --- | --- | --- |
 | Week 1 | Tier 2 | 0h | 0 |
 
-_No entries logged yet._
+9/10/2026
+Today I started by learning kicad and researched about keyboard making 
